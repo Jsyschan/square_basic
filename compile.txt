@@ -1,0 +1,1 @@
+     g++ -W pgrm.cpp card.h card.cpp -o pgrm
